@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\DCL\CalculateWage\bin\Debug\net8.0\CalculateWage.exe
+C:\Users\Usuario\Desktop\DCL\CalculateWage\bin\Debug\net8.0\CalculateWage.deps.json
+C:\Users\Usuario\Desktop\DCL\CalculateWage\bin\Debug\net8.0\CalculateWage.runtimeconfig.json
+C:\Users\Usuario\Desktop\DCL\CalculateWage\bin\Debug\net8.0\CalculateWage.dll
+C:\Users\Usuario\Desktop\DCL\CalculateWage\bin\Debug\net8.0\CalculateWage.pdb
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.dll
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\refint\CalculateWage.dll
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.pdb
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\CalculateWage.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\DCL\CalculateWage\obj\Debug\net8.0\ref\CalculateWage.dll
